@@ -1,5 +1,5 @@
 # LatekNightV4-ARCHivs
-Last version of LatenightV4 release
+Last version of Latenight Client/mod release
 
 
 - LateNight was free and publically available to anyone who wished to use it
